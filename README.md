@@ -1,1 +1,1 @@
-# python-pierre-pantnher
+# python-pierre-panther
